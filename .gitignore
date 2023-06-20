@@ -1,0 +1,32 @@
+# Next.js
+.next
+
+# Node
+node_modules
+
+# Build
+out
+dist
+
+# Dependency directories
+.pnp
+.pnp.js
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Testing
+coverage
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# IDE files
+/.vscode
+.idea
