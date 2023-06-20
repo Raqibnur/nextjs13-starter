@@ -86,4 +86,4 @@ Contributions are welcome! If you have any ideas or suggestions, please create a
 
 ## License
 
-Next.js 13 Starter is open source and released under the MIT License. See the [LICENSE](https://github.com/your-username/nextjs-starter/blob/main/LICENSE) file for details.
+Next.js 13 Starter is open source and released under the MIT License. See the [LICENSE](https://github.com/raqibnur/nextjs13-starter/main/LICENSE) file for details.
